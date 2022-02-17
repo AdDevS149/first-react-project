@@ -1,0 +1,24 @@
+famous-people__container {
+  display: flex;
+}
+
+.famous-people__details {
+  background-color: white;
+  padding: 0.5rem 10rem;
+  padding: 0.5rem 1.5rem 0.5rem 2.2rem;
+  margin: 3.5rem;
+  line-height: 1.3;
+}
+
+.famous-people__name {
+  text-align: center;
+}
+
+span {
+  font-weight: bold;
+}
+
+li {
+  background-color: white;
+  list-style: none;
+}
