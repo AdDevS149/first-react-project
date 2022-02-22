@@ -17,7 +17,7 @@ body {
 
 .famous-people__container {
   display: flex;
-  justify-content: space-around
+  justify-content: space-between;
 }
 
 
